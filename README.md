@@ -184,10 +184,10 @@ Với bài toán spam, nên chú ý đặc biệt đến **Recall** và **F1 c�
 
 | Đặc trưng | Mô hình | Accuracy | Precision | Recall | F1-Score |
 |---|---|---|---|---|---|
-| BoW | Naive Bayes | | | | |
-| BoW | SVM | | | | |
-| TF-IDF | Naive Bayes | | | | |
-| TF-IDF | SVM | | | | |
+| BoW | Naive Bayes | 0.8958 | 0.9280 | 0.8958 | 0.9103 |
+| BoW | SVM | 0.7777 | 0.9371 | 0.7777 | 0.8394 |
+| TF-IDF | Naive Bayes | 0.9526 | 0.9434 | 0.9526 | 0.9466 |
+| TF-IDF | SVM | 0.9526 | 0.9074 | 0.9526 | 0.9294 |
 
 Confusion matrix và biểu đồ được lưu trong `results/figures/`.
 

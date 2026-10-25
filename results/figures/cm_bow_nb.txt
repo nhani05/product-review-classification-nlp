@@ -1,0 +1,3 @@
+Confusion Matrix: BOW + NB
+TN: 1781, FP: 147
+FN: 64, TP: 32

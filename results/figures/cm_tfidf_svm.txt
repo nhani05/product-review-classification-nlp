@@ -1,0 +1,3 @@
+Confusion Matrix: TFIDF + SVM
+TN: 1928, FP: 0
+FN: 96, TP: 0

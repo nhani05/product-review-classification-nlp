@@ -1,0 +1,3 @@
+Confusion Matrix: TFIDF + NB
+TN: 1900, FP: 28
+FN: 68, TP: 28
