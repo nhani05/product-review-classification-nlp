@@ -1,0 +1,3 @@
+Confusion Matrix: BOW + SVM
+TN: 1513, FP: 415
+FN: 35, TP: 61
